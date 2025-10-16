@@ -1,4 +1,4 @@
-# Automated-Network-ANalysis-Tool
+# Automated-Network-Analysis-Tool
 
 1. Basic scans : python network_analysis.py
 2. Specific scans: python network_analysis.py --network 192.168.1.0/24
