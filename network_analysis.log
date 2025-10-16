@@ -1,0 +1,7 @@
+2025-10-16 09:11:51,774 - INFO - Initialized NetworkAnalyzer for network: 10.249.190.219/24
+2025-10-16 09:11:51,775 - INFO - Starting ARP scan on 10.249.190.219/24
+2025-10-16 09:11:51,775 - ERROR - ARP scan failed: [Errno 1] Operation not permitted
+2025-10-16 09:11:51,775 - INFO - Starting packet capture for 50 packets or 30 seconds
+2025-10-16 09:11:51,775 - ERROR - Packet capture failed: [Errno 1] Operation not permitted
+2025-10-16 09:11:51,776 - INFO - JSON report saved as network_report_20251016_091151.json
+2025-10-16 09:11:51,776 - INFO - HTML report saved as network_report_20251016_091151.html

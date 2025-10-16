@@ -1,0 +1,13 @@
+{
+  "scan_timestamp": "2025-10-16T09:11:51.776084",
+  "target_network": "10.249.190.219/24",
+  "discovered_devices": [],
+  "nmap_results": {},
+  "packet_analysis": [],
+  "summary": {
+    "total_devices": 0,
+    "total_packets_captured": 0,
+    "devices_with_open_ports": 0,
+    "scan_duration": "N/A"
+  }
+}
